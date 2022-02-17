@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: purple;
+}
+.header_div{
+    font-family: 'fantasy';
+    color:black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'fantasy';
+    margin-top: 30px;
+    width: 130;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color: rgba(red, green, blue, alpha);
+    line-height:3 ;
+    text-align: center;
+    text-shadow: 5px 5px 3px maroon;
+}
